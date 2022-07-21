@@ -8,6 +8,8 @@
 
 ### [LinkedIn](https://www.linkedin.com/in/lucasdximenes/)
 
+### [Deploy](https://solar-system-react.vercel.app/)
+
 <details>
   <summary><strong>📝 Skills</strong></summary><br />
 
