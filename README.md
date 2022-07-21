@@ -32,7 +32,7 @@ In this project, I learned to:
 
 ### Preview
 
-![Preview](https://raw.githubusercontent.com/lucasdximenes/solar-system/master/public/preview_gif.gif)
+![Preview](public/preview_gif.gif)
 
 ---
 
